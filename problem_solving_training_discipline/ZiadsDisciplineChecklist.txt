@@ -1,0 +1,48 @@
+﻿Reading
+* Never rush into reading the statement and read it slowly
+* Think in each statement
+* Make sure that statements don’t conflict with each other
+* Never to ignore constraints especially the unusual ones(sometimes the solution is in one of them)
+* Write some keywords that can help you remember some of the problem while in thinking phase.
+* Trace samples
+* Read the problem statement again if(problem statement is small && didn’t get the full picture yet)
+* Never to assume something
+* Make sure you understood the exact input and output format
+* If there’s some kind of calculation in a test case or the problem statement, do the equation on your calculator to make sure you got it right.
+
+
+Thinking
+* Start thinking on paper, never to think on pc
+* Don’t choose a random idea and dive into it
+* Brainstorm on all possible approaches and ideas in your opinion and rank them
+* Think concretely
+* Think symbolically
+* Think pictorially
+* Calculate the order and think in problem constraints
+* Think in boundary and tricky test cases
+* Abstract the problem if your abstraction approach is correct
+* Get observations from the problem and do it on pc if stuck
+
+
+Verifying
+* Check on the time and memory order again
+* Full logic & intuitive Revision
+* Check for overflow
+* Check double precision
+* Test your idea with special and boundary test cases
+
+
+
+
+Coding
+* Think about every part of the code while writing it to verify it again
+* Challenge every block of code
+* Trace your code one more time
+* Check Error inspection list
+* After getting AC, try writing a faster and a shorter code.
+
+
+Debugging
+* Use the debugger
+* Check if the idea is actually correct
+* Check the initial problem’s states if necessary

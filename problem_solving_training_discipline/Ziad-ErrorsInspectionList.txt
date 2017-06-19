@@ -1,0 +1,24 @@
+﻿WA:
+* breaking a while loop at the not desired position (not tracing the code one more time before submitting)
+
+
+* Dividing by zero
+
+
+* Forgetting to break in a loop
+
+
+* When discovering a bug in the code, I should search for all the similar bugs and fix them all.
+
+
+* Never dive into an idea if you can’t verify it
+
+
+* v[i].substr(5,v[i].size()-5); not v[i].substr(5,v.size()-5);
+(Be aware of the logic of your code and don’t rush in writing it).
+
+
+   * When counting the occurrences of a character in a string(upper and lower) or (lower only)?
+   * Initializing int ans=0; outside of the class(in topcoder) and forgetting to write ans=0; inside the function. (It caused problems because I was calling a rec function inside the solution’s function)
+   * writing find(all(v)) while you want to search in a specific part of v not all of it.
+   * While Brute Forcing on some variables, not paying attention to the values they can take.
