@@ -4,7 +4,9 @@
 
 ----------C++ course 1Darray second video -----coding----- slidingWindow
 
-wrong answer cause i didn't assign the iterator with number i only declare it so it get 
+1-wrong answer cause i didn't assign the iterator with number i only declare it so it get 
 random answer
+2- Forget to add plus sign before sign operator to indicate adding to the existing variable
+ sum+=arr[win];
 ------------------------------------
 
