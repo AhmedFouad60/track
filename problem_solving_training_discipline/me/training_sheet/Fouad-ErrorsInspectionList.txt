@@ -22,3 +22,26 @@
    * Initializing int ans=0; outside of the class(in topcoder) and forgetting to write ans=0; inside the function. (It caused problems because I was calling a rec function inside the solution’s function)
    * writing find(all(v)) while you want to search in a specific part of v not all of it.
    * While Brute Forcing on some variables, not paying attention to the values they can take.
+----------------------------------------------------------------------------------------------------
+what i should/n't do ->
+
+problem A
+-------
+
+Vanya and fence
+
+-compilation error
+i should choose the lang C++ correct with G++ to not get me compilation error
+
+
+
+
+
+
+
+
+
+
+
+
+
