@@ -36,7 +36,20 @@ i should choose the lang C++ correct with G++ to not get me compilation error
 
 
 
+-------------------
+LIbraryManagement OOP
 
+-cross initialzation of int bla bla
+
+i should use braces with  case of the switch to give the variable scope
+
+
+-using getline()  get some error ->  cause i used it after cin 
+and the problem is >> of cin leave /n in the buffer and getline get string until get /n
+so it will terminate at the first glance 
+
+
+-------------------
 
 
 
