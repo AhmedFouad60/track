@@ -1,3 +1,5 @@
 Writing  here what make me get wrong answer 
 
 compile error -> not choosing the right compiler
+
+Run time error -> cause i  assert one of the allowed values in the constrain
