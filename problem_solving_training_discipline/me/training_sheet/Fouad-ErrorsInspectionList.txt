@@ -15,7 +15,12 @@ problem A
 -i should think simple with  symbols  i.e(amount of a in string K_a amount of d in string K_d)
 
 
+----------------------------------------
+problem A 
 
+6-stones on table
+
+-i should initial every variable cause i will make random value
 
 
 
