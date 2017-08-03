@@ -22,6 +22,11 @@ problem A
 
 -i should initial every variable cause i will make random value
 
+---------------------------------
+problem A
+7-black square
+-i should not rash to the code in computer before tracing every sample with paper
+------------
 
 
 
