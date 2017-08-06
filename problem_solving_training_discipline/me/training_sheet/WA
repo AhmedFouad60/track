@@ -7,3 +7,5 @@ Run time error -> cause i  assert one of the allowed values in the constrain
 compile error -> forget constrain instead of 1000 i typed 100
 
 compile error -> cause i didn't use pow() function in the constrain section and i used instead   ^   symbol
+
+wrong answer  -> cause i forget the {} and assume that everything ok
