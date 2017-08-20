@@ -8,4 +8,12 @@ compile error -> forget constrain instead of 1000 i typed 100
 
 compile error -> cause i didn't use pow() function in the constrain section and i used instead   ^   symbol
 
+compile error -> cause i used typeof   instead of  auto with tr() macro
 wrong answer  -> cause i forget the {} and assume that everything ok
+
+free_ice-cream:
+
+    wrong answer  ->i got WA for the first submition cause i have to check the constraint i should check if the input is outside of int range of equal to it and i have to do opertion involve plus and multiply so i have to use long long int not int "
+    [master 5dfa3dd] i got WA for the first submition cause i have to check the constraint i should check if the input is outside of int range of equal to it and i have to do opertion involve plus and multiply so i have to use long long int not int
+
+    "
