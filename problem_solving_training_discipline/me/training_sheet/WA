@@ -17,3 +17,9 @@ free_ice-cream:
     [master 5dfa3dd] i got WA for the first submition cause i have to check the constraint i should check if the input is outside of int range of equal to it and i have to do opertion involve plus and multiply so i have to use long long int not int
 
     "
+
+WA ->CF team_olympiad
+
+lesson leaned: i should use logical operator when comparing more than two numbers
+
+false =>  if(k1==k2==k3)     you should use  if((k1==k2)&&(k1==k3))
